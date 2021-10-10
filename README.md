@@ -1,4 +1,4 @@
-# FARIZ-ADZKATIO
+
 
 ![](https://assets.dcoder.tech/61381f035dac330612ecaca0/6162394fd1531a060ff2c2b0/storageemulated0pictures155.jpg) 
 
@@ -8,11 +8,14 @@
 - - 🌱 I’m currently learning ... 
 - - 💞️ I’m looking to collaborate on ... 
 - - 📫 How to reach me .. 
--  &lt;!--- 
--  sjemy2210/sjemy2210 is a ✨ special ✨ repository because its 
--  `README.md` 
--  (this file) appears on your GitHub profile. You can click the Preview link to take a look at your 𝚌𝚑𝚊𝚗𝚐𝚎𝚜 --->
--  `𝚂𝚞𝚗𝚍𝚊𝚢 𝙾𝚌𝚝, 10'2021` 
+
+- `README.md` 
+- `𝚂𝚞𝚗𝚍𝚊𝚢 𝙾𝚌𝚝, 10'2021`
+## 𝙳𝙰𝚃𝙰 𝚂𝙰𝚈𝙰 
+
+
+
+
 -  `𝙽𝚊𝚖𝚎     : 𝙹𝙴𝙼𝚈 𝚂𝙴𝚃𝙸𝙰𝚆𝙰𝙽` 
 -  `𝙴𝚖𝚊𝚒𝚕    : 𝚜𝚓𝚎𝚖𝚢2210@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖` 
 -  `𝚙𝚑𝚘𝚗𝚎    : +62 857 7381 3523` 
@@ -37,7 +40,7 @@
 -  `Dark Side, Faded....etc. Good Job`  
 -  [Website   game](https://code.dcoder.tech/files/design/6157c1c847891b05b9853358/website-game) 
 -  [JEMY SETIAWAN](https://code.dcoder.tech/files/article/61610783d1531a060ff1e38a/jemy-setiawan) 
-## External links
+### External links
 
 1. [Full documentation site](https://docs.browserless.io/)
 2. [Live Debugger (using browserless.io)](https://chrome.browserless.io/)

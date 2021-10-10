@@ -37,7 +37,12 @@
 -  `Dark Side, Faded....etc. Good Job`  
 -  [Website   game](https://code.dcoder.tech/files/design/6157c1c847891b05b9853358/website-game) 
 -  [JEMY SETIAWAN](https://code.dcoder.tech/files/article/61610783d1531a060ff1e38a/jemy-setiawan) 
-- 
+## External links
+
+1. [Full documentation site](https://docs.browserless.io/)
+2. [Live Debugger (using browserless.io)](https://chrome.browserless.io/)
+3. [Docker](https://hub.docker.com/r/browserless/chrome/)
+4. [Slack](https://join.slack.com/t/browserless/shared_invite/enQtMzA3OTMwNjA3MzY1LTRmMWU5NjQ0MTQ2YTE2YmU3MzdjNmVlMmU4MThjM2UxODNmNzNlZjVkY2U2NjdkMzYyNTgyZTBiMmE3Nzg0MzY)
 
 
 -  Sunday, Oct`10,10`2021 

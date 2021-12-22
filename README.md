@@ -30,15 +30,16 @@
 -  [the-book-of-secret-knowledge](https://code.dcoder.tech/files/project/615327c8bbc3166ffce18cc5/the-book-of-secret-knowledge) 
 -  [telegrambotslist](https://code.dcoder.tech/files/project/615326ef17efffa0d6b400dc/telegrambotslist) 
 -  ![](https://assets.dcoder.tech/61381f035dac330612ecaca0/616242c8a81900060c73e31d/acc1docencodedaher2otxqfmxk_inzjsgxnbyd22pwsuilfu3qd_hmvyvixr-llc_va.jpg) 
+
 -  `Hello Mr.Stark`
+
 -  ![](https://assets.dcoder.tech/61381f035dac330612ecaca0/616242c8a81900060c73e31d/acc1docencodedghhtkm1nq3xri85ti2j6nggqprfqry2eb6u-8htnekaz3si76lesag.jpg) 
+-  
 -  `Hello Speddey`  
 -  `Saya suka karakter Hero Iron Man &amp; Spiderman, meski mereka hanya di dalam Film, tapi karakter &amp; Aksi nya membuat semua orang menyukainya. Mungkin bila dalam kehidupan nyata ini ada karakter hidup seperti mereka, mungkinkah mereka bisa membawa kedamaian seperti yang mereka perankan dalam film mereka.......Seru ` 
 
 -  ![](https://assets.dcoder.tech/61381f035dac330612ecaca0/616242c8a81900060c73e31d/acc1docencodeds4ykwfbdcyiz9rk7fhn8zfmucipkjevejxsidpkhuownpm5r96zusw.null) 
 
-
--  [Website   game](https://code.dcoder.tech/files/design/6157c1c847891b05b9853358/website-game) 
 -  [JEMY SETIAWAN](https://code.dcoder.tech/files/article/61610783d1531a060ff1e38a/jemy-setiawan) 
 ### External links
 
